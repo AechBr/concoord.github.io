@@ -1,0 +1,101 @@
+Body{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 95%;
+}
+
+.sidebar-nav{
+    margin-top: -30px;
+}
+
+.sidebar-header{
+    color: rgba(255, 255, 255, 0.301);
+    font-weight: 200;
+}
+
+.headdrop{
+    color: rgba(34, 66, 151, 0.897);
+    font-size: 12px;
+}
+
+.logotopo{
+    margin-top: -20px;
+    margin-left: -3px;
+    width: 200px;
+}
+
+.logosidebar{
+    width: 70%;
+}
+
+.tile{
+    color: rgba(7, 18, 41, 0.692);
+}
+
+.tiledown{
+    color: rgba(89, 96, 102, 0.479);
+    font-size: 15px;
+}
+
+.card-titulo{
+    color: rgb(14, 31, 31);
+}
+
+.card-subtitulo{
+    font-size: 12px;
+    margin-top: -6px;
+}
+
+.card-subtitulo-2{
+    font-size: 12px;
+    margin-top: 2px;
+}
+.card-resultado-gerencial{
+    margin-top: -28px;
+    margin-left: -1px;
+    height: 188px;
+}
+
+.card-resultado{
+    margin-top: -28px;
+    margin-left: -1px;
+}
+
+.card-grafico-gerencial{
+    width: 150px;
+    margin-top: -70px;
+    margin-block-end: 0px;
+    
+}
+
+.chart-sm{
+    margin-top: -25px;
+}
+
+.card-grafico{
+    width: 70px;
+    margin-top: -6.7rem;
+    margin-right: -.3rem;
+    margin-block-end: -10.2rem;
+    
+}
+
+.card-body{
+    color:var(--bs-card-color);
+    flex:1 1 auto;
+    padding:var(--bs-card-spacer-y) var(--bs-card-spacer-x)}
+
+
+.grafico-mensais{
+    margin-block-end: -5px;
+}
+
+.verde{
+    color: #5F9EA0;
+    
+}
+
+.tabela-w17{
+    width: 17rem;
+
+}
+
